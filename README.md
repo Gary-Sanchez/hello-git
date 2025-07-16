@@ -14,5 +14,5 @@ Daniela Maranon - Sport: Natacion - Food: Lasaña - Dessert: Tiramisu
 Alejandro Lazaro G - Sport: Soccer - Food: Sajta - Dessert: Flan
 Wilma2 Luizaga -Deporte: Natacion -Comida: Chicharron
 Wilma Herbas - Deporte favorito: trotar -Comida favorita: mariscos -Postre:helado
-Gary Sanchez 
+Gary Sanchez - Deporte Favorito: Ciclismo 
 
