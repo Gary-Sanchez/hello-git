@@ -15,5 +15,5 @@ Alejandro Lazaro G - Sport: Soccer - Food: Sajta - Dessert: Flan
 Wilma2 Luizaga -Deporte: Natacion -Comida: Chicharron
 Wilma Herbas - Deporte favorito: trotar -Comida favorita: mariscos -Postre:helado
 Gary Sanchez - Deporte Favorito: Ciclismo -Plato favorito: Plato hondo -Postre: Milkshake
-Juanpa Zurita - Deporte favorito: Trotar -Plato favorito: Masaco
+Juanpa Zurita - Deporte favorito: Trotar -Plato favorito: Masaco -Postre: Tiramisu
 
